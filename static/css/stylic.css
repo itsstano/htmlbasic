@@ -1,0 +1,68 @@
+ul{
+    list-style-type: none;
+    margin:0;
+    padding:0;
+    overflow: hidden;
+    background-color:royalblue;
+    font-style: italic;
+}
+li{
+    float:left;
+    text-align: center;
+    text-decoration: none;
+    display: block;
+}
+li,a{
+    padding: 20px;
+}
+li,a:hover{background-color: royalblue}
+h3{text-align: center;
+    color:blueviolet;
+     font-family: Chilanka}
+ol{font-style:italic;
+}
+table{font-style: italic}
+.fruits {
+    background-color: blueviolet;
+    border: 2px dot-dot-dash;
+    font-style: italic;
+    padding: 15px;
+    margin: 15px;
+    text-align: center;
+}
+
+.cars{background-color: aqua;
+font-family: "Century Schoolbook L";
+margin: 15px;
+    padding: 15px;
+    text-align: center;
+    border: 2px dot-dot-dash;
+}
+.FRUITS{background-color: green;
+font-style: oblique;
+    margin: 15px;
+    padding: 15px;
+    text-align: center;
+    border: 2px dot-dot-dash;
+}
+.basketball{background-color: khaki;
+font-style: revert;
+margin: 15px;
+padding: 15px;
+text-align: center;
+border: 2px dot-dot-dash
+}
+#matunda{
+  background-color:cornflowerblue;
+    border: 5px dotted olive;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+}
+#magari{
+    background-color: lightslategrey;
+    border: 5px dotted black;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+}

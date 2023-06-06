@@ -1,0 +1,40 @@
+.container{
+  max-width: 450px;
+    margin: 0 auto;
+    padding: 30px;
+    border: 2px solid firebrick;
+    border-radius: 5px;
+}
+.container h2{
+    text-align: center;
+}
+.form-group{
+    margin-top: 20px;
+}
+.form-group label{
+  display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+.form-group input{
+    width: 100%;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #cccccc;
+}
+.form-group button{
+    width: 100%;
+    padding: 10px;
+    background-color: lightslategray;
+    color: #cccccc;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.form-group button:hover{
+    background-color: olive;
+}
+body{
+    font-family: DialogInput;
+
+}
